@@ -1,4 +1,5 @@
 # Test-Solver
+<img src="https://shields.io/badge/version-0.2-blue">
 
 ### Установка:
 
